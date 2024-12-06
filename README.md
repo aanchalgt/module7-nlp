@@ -1,7 +1,7 @@
-Final Project for Web Mining and Natural Language Processing: Article Summarizer
-Student: Aanchal Gupta
-Date: December 5, 2024 
-GitHub Repo: https://github.com/Valpal84/WK7_Final_Project
+## Final Project for Web Mining and Natural Language Processing: Article Summarizer
+### Student: Aanchal Gupta
+### Date: December 5, 2024 
+### GitHub Repo: https://github.com/aanchalgt/module7-nlp
 
 Clone the starter repo to your device
 
@@ -15,7 +15,7 @@ Complete all listed tasks in the .ipynb file while ensuring you label all of the
 
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
-Rubric
+## Rubric
 (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
 (Question 2) Polarity score printed with an appropriate label: 1 pt
 (Question 2) Number of sentences printed: 1 pt
@@ -35,7 +35,3 @@ Rubric
 (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 (Question 13) Thoughtful answer based on summaries: 1 pt
 
-
-In the .gitignore file add .venv/ so that the virtual environment updates aren't sent to GitHub
-
-Ensure your ReadMe file is updated appropriately.
