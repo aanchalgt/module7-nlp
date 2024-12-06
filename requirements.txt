@@ -6,3 +6,5 @@ matplotlib
 requests
 spacy
 spacytextblob
+numpy
+counter
